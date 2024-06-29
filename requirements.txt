@@ -1,0 +1,12 @@
+aiogram
+APScheduler
+art
+colorama
+psutil
+requests
+snscrape
+SQLAlchemy
+ujson
+python-dotenv
+yt-dlp
+aiosqlite
