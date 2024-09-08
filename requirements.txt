@@ -8,5 +8,4 @@ snscrape
 SQLAlchemy
 ujson
 python-dotenv
-yt-dlp
 aiosqlite
